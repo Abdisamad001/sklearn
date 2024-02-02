@@ -1,0 +1,21 @@
+Linear Regression:
+1- From scratch (using Numpy) & Using sklearn library
+https://colab.research.google.com/drive/1aXWFzEhpamity58vHi8YC0VXDdM_NY0F?usp=sharing
+
+Logistic Regression (Binary Classification):
+1- From scratch (using Numpy) & Using sklearn library
+https://colab.research.google.com/drive/1Br7U86owY2ypEMelsWHNZmLtnBICR5GD?usp=sharing
+-> 
+
+2- Using Pytorch
+https://colab.research.google.com/drive/16J7NZ2rv48bE62tlixOz7LclJdv5PN5z?usp=sharing
+
+Multiclass Classification (NN):
+1- From scratch (using Numpy)
+https://colab.research.google.com/drive/1nuBsN2vRhCssTfdTDFK5cD3BHj5d_jK0?usp=sharing 
+
+2- Using Pytorch (Session exercise)
+https://colab.research.google.com/drive/1RGZAe88JSgSLCUSlPjJbFiqUN7qmNaLb?usp=sharing
+
+3- Using Pytorch (Another example with Iris Dataste)
+https://colab.research.google.com/drive/1G_8suWMmN8uszegfsJhl6rYBWk9ahD1g?usp=sharing
